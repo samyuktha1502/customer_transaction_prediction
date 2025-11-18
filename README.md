@@ -1,4 +1,4 @@
-# customer_transaction_prediction
+# Customer_transaction_prediction
 📌 Project Overview
 
 This project focuses on predicting whether a customer will make a transaction in the future based on their historical behavior patterns. The goal is to build a machine learning model that helps businesses improve targeted marketing, customer retention, and personalized engagement strategies.
